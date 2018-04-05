@@ -76,7 +76,7 @@ We're going to use our new GitHub account to `fork`<sup>1</sup> a repository -- 
 
 This repository will then be copied to your own account (*not* your computer), so that you can make changes to it if you like. Since the fork exists on GitHub's servers, any changes that you push to those servers means those changes are already backed up for you.
 
-* To avoid confusion, you may want to change the name of the repository to something like `GitWorkshop` by clicking on settings. *By they way: what's a "repository"?*
+* To avoid confusion, you may want to change the name of the repository to something like `GitWorkshop` by clicking on settings. *By the way: what's a "repository"?*
 
 ### Cloning, Creating, and Changing:
 The options in the Github app under the File menu are to create a new, add a local, or clone a repository.  *Creating* creates a new repository. *Adding* is finding and telling the app that a repository is already on your computer. *Cloning* is copying an existing repository from your GitHub account.
